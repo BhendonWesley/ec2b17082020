@@ -1,0 +1,1 @@
+Usaremos um site online e as lojas virtuais para dispositivos móveis dá Google (Play Store) e dá Apple (App Store) para implantarmos nosso aplicativo, para assim podermos operar e fazer um acompanhamento do mesmo.  

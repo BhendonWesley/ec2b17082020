@@ -1,0 +1,1 @@
+Usaremos 2 campos livres que ficam a 25Km de distância um do outro para testar/verificar e validar o carro com IA.

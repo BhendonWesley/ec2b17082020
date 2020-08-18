@@ -1,0 +1,7 @@
+O cliente quer fazer carros voadores na área do transporte privado urbano com limite de preço de ate 10 dólares por viagem/pessoa 
+
+O sistema deve fazer autenticacao do usuario.
+
+O sistema deve alocar o carro voador mais proximo do usuario.
+
+O usuario deve fazer a solicitacao de uma viagem por apluicativo.

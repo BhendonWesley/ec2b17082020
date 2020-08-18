@@ -1,0 +1,1 @@
+Usaremos o Python para criar uma Inteligência Artificial que irá definir o ponto de partida da pessoa/cliente a partir do acesso a sua localização já permitida antes pelo usuário, e então traçará a rota aérea mais segura/rápida para o cliente
